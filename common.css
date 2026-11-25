@@ -1,0 +1,18 @@
+/* common styles */
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+}
+
+/* learning project banner */
+.learning-banner {
+    background-color: #cea135;
+    color: #11122b;
+    text-align: center;
+    font-size: 0.85em;
+    padding: 6px 10px;
+}
